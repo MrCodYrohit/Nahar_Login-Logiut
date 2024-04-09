@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mb-4 text-slate-700 {
+    color: darkcyan;
+
+}
